@@ -5,7 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #331F19; 
+    background-color: #a1624f; 
 }
 .container {
     text-align: center;
@@ -69,4 +69,8 @@ input[type="text"] {
 input[type="text"]:focus {
     border-color: #60041A;
     box-shadow: inset 0 2px 4px rgba(96, 4, 26, 0.3);
+}
+#btn{
+    display: none;
+    margin: auto;
 }
